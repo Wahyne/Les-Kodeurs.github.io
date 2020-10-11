@@ -1,7 +1,7 @@
 [[FR]](#fr)
 
 <a name="fr"></a>
-# Les-Kodeurs.github.io
+# Les Kodeurs
 Les Kodeurs est un discord français de développement
 
 ## Contributions
