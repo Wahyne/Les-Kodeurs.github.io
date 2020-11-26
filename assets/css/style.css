@@ -3,11 +3,11 @@
 @import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap);
 
 /* Menu de navigation */
-div.nav nav ul li.btn{
+.nav nav ul .btn{
     list-style-type: none;
     display: inline;
 }
-div.nav nav ul li.btn a{
+.nav nav ul .btn a{
     /* color: #0a7075; */
     text-decoration: none;
 }
