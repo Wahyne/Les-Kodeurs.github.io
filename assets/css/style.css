@@ -11,12 +11,13 @@
     /* color: #0a7075; */
     text-decoration: none;
 }
-img.logo{
-    size: 10px;
+.logo{
+    width: 10px;
+    height: auto;
 }
 
 /* Autres */
 body{
-    margin: 0px;
+    margin: 0;
     font-family: Montserrat;
 }
