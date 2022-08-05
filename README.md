@@ -1,11 +1,11 @@
-[[FR]](#fr)
+[[Communauté FR]](#fr)
 
 <a name="fr"></a>
 # Les Kodeurs
-Les Kodeurs est un discord français de développement
+Les Kodeurs est un serveur discord français basé sur le développement.
 
 ## Contributions
 Pour contribuer, veuillez faire un fork du repository dans lequel vous souhaitez contribuer. Apportez vos modifications sur votre repository local, puis, réalisez une pull request.
 
 ## Lien discord
-[Lien](https://discord.gg/ZMbKUfW)
+[Reejoindre Notre serveur](https://discord.gg/ZMbKUfW)
